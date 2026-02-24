@@ -6,6 +6,10 @@ NewLand Discord Mafia Game Bot 1
 
 [![Development Note p.50](https://img.youtube.com/vi/FtWjaRxQkK4/0.jpg)](https://www.youtube.com/watch?v=FtWjaRxQkK4)
 
+## The First Video with the Most Views Among Development Note p.1-p.100 (Dates are based on p.101 of the Development Notes)
+
+Remake ver.
+
 [![Development Note p.101](https://img.youtube.com/vi/fNbBzr_Dp8M/0.jpg)](https://www.youtube.com/watch?v=fNbBzr_Dp8M)
 
 # Links(링크)
